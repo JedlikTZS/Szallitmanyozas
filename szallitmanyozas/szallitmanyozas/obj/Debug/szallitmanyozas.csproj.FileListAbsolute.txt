@@ -1,0 +1,7 @@
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\bin\Debug\szallitmanyozas.exe.config
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\bin\Debug\szallitmanyozas.exe
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\bin\Debug\szallitmanyozas.pdb
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\obj\Debug\szallitmanyozas.csprojAssemblyReference.cache
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\obj\Debug\szallitmanyozas.csproj.CoreCompileInputs.cache
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\obj\Debug\szallitmanyozas.exe
+Z:\C#\Szallitmanyozo\szallitmanyozas\szallitmanyozas\obj\Debug\szallitmanyozas.pdb
